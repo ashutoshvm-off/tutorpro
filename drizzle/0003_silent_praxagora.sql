@@ -1,0 +1,1 @@
+ALTER TABLE `tutorflow_profiles` ADD `email` varchar(320);

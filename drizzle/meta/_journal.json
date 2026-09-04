@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788522804098,
+      "tag": "0000_closed_lester",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788523187756,
+      "tag": "0001_sloppy_tomas",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1788523216686,
+      "tag": "0002_wakeful_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1788524034326,
+      "tag": "0003_silent_praxagora",
+      "breakpoints": true
+    }
+  ]
+}
